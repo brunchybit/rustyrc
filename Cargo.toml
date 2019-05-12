@@ -1,0 +1,7 @@
+[package]
+name = "rustyrc"
+version = "0.1.0"
+authors = ["Micah Adams <micah.shawn.adams@gmail.com>"]
+edition = "2018"
+
+[dependencies]
